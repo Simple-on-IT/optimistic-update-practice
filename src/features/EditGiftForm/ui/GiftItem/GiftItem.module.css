@@ -1,0 +1,36 @@
+.giftItem {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 16px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 200px;
+}
+
+.giftItem h3 {
+  font-size: 18px;
+  margin: 0 0 8px;
+}
+
+.giftItem p {
+  font-size: 14px;
+  margin: 0 0 16px;
+}
+
+.giftItem button {
+  padding: 8px 12px;
+  font-size: 14px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.giftItem button:hover {
+  background-color: #0056b3;
+}
