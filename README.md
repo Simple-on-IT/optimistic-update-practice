@@ -26,5 +26,5 @@
 * `npm run dev` - сборка для разработки
 
 ## Дополнительные материалы:
-Документация: https://redux-toolkit.js.org/rtk-query/usage/manual-cache-updates
-Видео - 
+Документация: https://redux-toolkit.js.org/rtk-query/usage/manual-cache-updates  
+Видео - https://youtube.com/shorts/CzqAqLM1AgA?feature=share
